@@ -1,1 +1,3 @@
-cafes,biryani,travelling
+* cafes
+* biryani
+* travelling
